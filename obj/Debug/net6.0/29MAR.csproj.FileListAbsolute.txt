@@ -1,0 +1,15 @@
+/Users/mmindd/Desktop/29MAR/bin/Debug/net6.0/29MAR
+/Users/mmindd/Desktop/29MAR/bin/Debug/net6.0/29MAR.deps.json
+/Users/mmindd/Desktop/29MAR/bin/Debug/net6.0/29MAR.runtimeconfig.json
+/Users/mmindd/Desktop/29MAR/bin/Debug/net6.0/29MAR.dll
+/Users/mmindd/Desktop/29MAR/bin/Debug/net6.0/29MAR.pdb
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.csproj.AssemblyReference.cache
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.AssemblyInfoInputs.cache
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.AssemblyInfo.cs
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.csproj.CoreCompileInputs.cache
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.dll
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/refint/29MAR.dll
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.pdb
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/29MAR.genruntimeconfig.cache
+/Users/mmindd/Desktop/29MAR/obj/Debug/net6.0/ref/29MAR.dll
